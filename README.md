@@ -97,6 +97,9 @@ void loop() {
 ## Output:
 
  <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7852aa77-6558-4d65-b289-9370f691d022" />
+ 
+ <img width="1100" height="1600" alt="image" src="https://github.com/user-attachments/assets/1cb7c888-73d5-4eb7-aade-4b303121800a" />
+
 
 ## Result
 
